@@ -1,11 +1,11 @@
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm Ali Hassan
 
 **AI Backend Engineer in training, from Faisalabad, Pakistan**
 
 - 🔭 Currently building: Currently resolving real world problems with encourage and hands-on experience to contribute in Tech era. Having much knowledge of Ai models and vibe coding.
 - 🌱 Currently learning: Currently learning advance Backend AI system, RAG & Ai agents to reach upper level.
 - 💬 Ask me about: Python, C++, SQL, FastAPI, backend systems
-- 📫 Reach me: rajpootali7852@gmail.com · (https://www.linkedin.com/in/ali-hassan-970b153bb/)
+- 📫 Reach me: rajpootali7852@gmail.com · https://www.linkedin.com/in/ali-hassan-970b153bb/
 
 ---
 
