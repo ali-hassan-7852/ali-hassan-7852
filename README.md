@@ -1,11 +1,11 @@
 # Hi 👋, I'm [Your Name]
 
-**[Your one-line tagline — e.g. "AI Backend Engineer in training, from Faisalabad, Pakistan"]**
+**AI Backend Engineer in training, from Faisalabad, Pakistan**
 
-- 🔭 Currently building: [what you're working on]
-- 🌱 Currently learning: [what you're learning / practicing]
+- 🔭 Currently building: Currently resolving real world problems with encourage and hands-on experience to contribute in Tech era. Having much knowledge of Ai models and vibe coding.
+- 🌱 Currently learning: Currently learning advance Backend AI system, RAG & Ai agents to reach upper level.
 - 💬 Ask me about: Python, C++, SQL, FastAPI, backend systems
-- 📫 Reach me: [your email] · [LinkedIn] · [portfolio/blog, if you have one]
+- 📫 Reach me: rajpootali7852@gmail.com · (https://www.linkedin.com/in/ali-hassan-970b153bb/)
 
 ---
 
@@ -15,10 +15,10 @@
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ali-hassan-7852&show_icons=true&theme=radical)
 
 ---
 
 ### 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-hassan-970b153bb/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rajpootali7852.email@example.com)
